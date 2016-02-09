@@ -1,2 +1,2 @@
 # datasciencecoursera
-assignments from coursera
+Assignments from coursera
